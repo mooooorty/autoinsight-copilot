@@ -1,0 +1,50 @@
+{"id":"q01","question":"星河X1标准版的演示续航是多少？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["520 公里"],"group":"direct"}
+{"id":"q02","question":"星河X1长续航版的演示续航是多少？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["640 公里"],"group":"direct"}
+{"id":"q03","question":"星河X1从30%充到80%需要多久？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["28 分钟"],"group":"direct"}
+{"id":"q04","question":"星河X1后备厢容积是多少？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["480 升"],"group":"direct"}
+{"id":"q05","question":"星河X1标配中控屏尺寸是多少？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["15.6 英寸"],"group":"direct"}
+{"id":"q06","question":"星河X1高速辅助驾驶在哪个版本提供？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["高配版"],"group":"direct"}
+{"id":"q07","question":"星河X1整车质保多久？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["5 年或 12 万公里"],"group":"direct"}
+{"id":"q08","question":"星河X1有哪些车身颜色？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["云白、海蓝、曜黑"],"group":"direct"}
+{"id":"q09","question":"星河X1可以远程开启空调吗？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["手机远程开启空调"],"group":"direct"}
+{"id":"q10","question":"星河X1交付流程有哪几步？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["验车、功能讲解、账号绑定和文件签收"],"group":"direct"}
+{"id":"q11","question":"星河X2的演示续航是多少？","answerable":true,"expected_sources":["星河X2_产品资料.md"],"expected_phrases":["600 公里"],"group":"direct"}
+{"id":"q12","question":"星河X2快充30%到80%需要多久？","answerable":true,"expected_sources":["星河X2_产品资料.md"],"expected_phrases":["32 分钟"],"group":"direct"}
+{"id":"q13","question":"星河X2有几个座位？","answerable":true,"expected_sources":["星河X2_产品资料.md"],"expected_phrases":["六座布局"],"group":"direct"}
+{"id":"q14","question":"星河X2第三排使用时后备厢容积多少？","answerable":true,"expected_sources":["星河X2_产品资料.md"],"expected_phrases":["260 升"],"group":"direct"}
+{"id":"q15","question":"星河X2中控屏尺寸是多少？","answerable":true,"expected_sources":["星河X2_产品资料.md"],"expected_phrases":["17 英寸"],"group":"direct"}
+{"id":"q16","question":"星河X2高速辅助驾驶是否全系提供？","answerable":true,"expected_sources":["星河X2_产品资料.md"],"expected_phrases":["全系提供"],"group":"direct"}
+{"id":"q17","question":"星河X2整车质保多久？","answerable":true,"expected_sources":["星河X2_产品资料.md"],"expected_phrases":["6 年或 15 万公里"],"group":"direct"}
+{"id":"q18","question":"星河X2有哪些车身颜色？","answerable":true,"expected_sources":["星河X2_产品资料.md"],"expected_phrases":["云白、山灰、曜黑"],"group":"direct"}
+{"id":"q19","question":"试驾预约在哪儿操作？","answerable":true,"expected_sources":["用户FAQ.md"],"expected_phrases":["演示 App 中选择门店和日期"],"group":"faq"}
+{"id":"q20","question":"试驾预约最晚提前多久取消？","answerable":true,"expected_sources":["用户FAQ.md"],"expected_phrases":["开始前 2 小时"],"group":"faq"}
+{"id":"q21","question":"公共充电站如何筛选？","answerable":true,"expected_sources":["用户FAQ.md"],"expected_phrases":["按距离筛选"],"group":"faq"}
+{"id":"q22","question":"申请家充安装要上传什么材料？","answerable":true,"expected_sources":["用户FAQ.md"],"expected_phrases":["车位使用证明和物业同意文件"],"group":"faq"}
+{"id":"q23","question":"新车交付后怎样绑定主账号？","answerable":true,"expected_sources":["用户FAQ.md"],"expected_phrases":["扫描车机二维码"],"group":"faq"}
+{"id":"q24","question":"蓝牙钥匙首次激活需要什么？","answerable":true,"expected_sources":["用户FAQ.md"],"expected_phrases":["携带实体钥匙进入车内"],"group":"faq"}
+{"id":"q25","question":"软件更新安装期间能开车吗？","answerable":true,"expected_sources":["用户FAQ.md"],"expected_phrases":["安装期间车辆不可驾驶"],"group":"faq"}
+{"id":"q26","question":"购车电子发票多久推送？","answerable":true,"expected_sources":["用户FAQ.md"],"expected_phrases":["5 个工作日内"],"group":"faq"}
+{"id":"q27","question":"虚构反馈中多少条提到充电站信息更新不及时？","answerable":true,"expected_sources":["VOC洞察记录.md"],"expected_phrases":["18 条"],"group":"voc"}
+{"id":"q28","question":"连续语音对话有哪些用户反馈？","answerable":true,"expected_sources":["VOC洞察记录.md"],"expected_phrases":["被车内音乐打断"],"group":"voc"}
+{"id":"q29","question":"VOC工单闭环有哪几个阶段？","answerable":true,"expected_sources":["VOC洞察记录.md"],"expected_phrases":["收集、分类、责任人确认、方案处理和用户回访"],"group":"voc"}
+{"id":"q30","question":"安全风险VOC工单如何处理？","answerable":true,"expected_sources":["VOC洞察记录.md"],"expected_phrases":["P0 并立即人工复核"],"group":"voc"}
+{"id":"q31","question":"竞品A支持连续语音对话吗？","answerable":true,"expected_sources":["竞品观察.md"],"expected_phrases":["不支持连续对话"],"group":"competitor"}
+{"id":"q32","question":"竞品B多久更新一次充电站状态？","answerable":true,"expected_sources":["竞品观察.md"],"expected_phrases":["每 10 分钟"],"group":"competitor"}
+{"id":"q33","question":"星河X1和竞品B都支持几音区语音识别？","answerable":true,"expected_sources":["竞品观察.md"],"expected_phrases":["四音区语音识别"],"group":"comparison"}
+{"id":"q34","question":"星河X3的续航是多少？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q35","question":"星河X1的售价是多少？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q36","question":"星河X2的电池容量是多少？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q37","question":"竞品A的百公里加速成绩是多少？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q38","question":"星河X1是否支持自动驾驶无需司机接管？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q39","question":"用户反馈系统的月活跃用户数是多少？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q40","question":"竞品B的整车质保是几年？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q41","question":"星河X1和星河X2的整车质保分别多久？","answerable":true,"expected_sources":["星河X1_产品资料.md","星河X2_产品资料.md"],"expected_phrases":["5 年或 12 万公里","6 年或 15 万公里"],"group":"cross_document"}
+{"id":"q42","question":"星河X1和星河X2从30%充到80%的时间分别多久？","answerable":true,"expected_sources":["星河X1_产品资料.md","星河X2_产品资料.md"],"expected_phrases":["28 分钟","32 分钟"],"group":"cross_document"}
+{"id":"q43","question":"X1电量从三成补到八成大概要多长时间？","answerable":true,"expected_sources":["星河X1_产品资料.md"],"expected_phrases":["28 分钟"],"group":"paraphrase"}
+{"id":"q44","question":"星河X2的第二排采用什么座椅？","answerable":true,"expected_sources":["星河X2_产品资料.md"],"expected_phrases":["两张独立座椅"],"group":"paraphrase"}
+{"id":"q45","question":"交付时蓝牙钥匙讲解不充分有什么改进建议？","answerable":true,"expected_sources":["VOC洞察记录.md"],"expected_phrases":["现场激活步骤"],"group":"voc"}
+{"id":"q46","question":"竞品A和竞品B中谁支持连续对话？","answerable":true,"expected_sources":["竞品观察.md"],"expected_phrases":["竞品 B 支持四音区语音识别和连续对话"],"group":"comparison"}
+{"id":"q47","question":"星河X1零到百公里加速几秒？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q48","question":"星河X2软件更新每月推送几次？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q49","question":"安全类VOC工单必须在几小时内关闭？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}
+{"id":"q50","question":"竞品A的售价是多少？","answerable":false,"expected_sources":[],"expected_phrases":[],"group":"missing"}

@@ -1,0 +1,402 @@
+[
+  {
+    "source": "公开知识_01.md",
+    "location": "电动车知识",
+    "format": "md",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/vehicles/electric-basics-ev",
+    "access_date": "2026-10-05",
+    "fact_mapping": "纯电动车通过外接电源给动力电池充电。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_02.txt",
+    "location": "正文",
+    "format": "txt",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/vehicles/electric-basics-ev",
+    "access_date": "2026-10-05",
+    "fact_mapping": "纯电动车没有本地尾气排放；发电环节仍可能产生排放。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_03.csv",
+    "location": "行 2",
+    "format": "csv",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/vehicles/electric-basics-ev",
+    "access_date": "2026-10-05",
+    "fact_mapping": "低温会增加座舱加热能耗，因此实际续航可能下降。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_04.docx",
+    "location": "章节 电动车知识 · 段落 1",
+    "format": "docx",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/vehicles/electric-basics-ev",
+    "access_date": "2026-10-05",
+    "fact_mapping": "频繁制动可回收部分能量，纯电动车在城市工况往往更高效。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_05.md",
+    "location": "电动车知识",
+    "format": "md",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/fuels/electricity-stations",
+    "access_date": "2026-10-05",
+    "fact_mapping": "美国交流一级充电使用 120 V 电源。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_06.txt",
+    "location": "正文",
+    "format": "txt",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/fuels/electricity-stations",
+    "access_date": "2026-10-05",
+    "fact_mapping": "美国住宅交流二级充电通常使用 240 V 电源。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_07.csv",
+    "location": "行 2",
+    "format": "csv",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/fuels/electricity-stations",
+    "access_date": "2026-10-05",
+    "fact_mapping": "充电时间受电池剩余电量、容量、车载充电机和充电设备功率影响。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_08.docx",
+    "location": "章节 电动车知识 · 段落 1",
+    "format": "docx",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/vehicles/electric-basics-phev",
+    "access_date": "2026-10-05",
+    "fact_mapping": "插电式混合动力汽车既能外接充电，也配有内燃机。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_09.md",
+    "location": "电动车知识",
+    "format": "md",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/vehicles/electric-basics-phev",
+    "access_date": "2026-10-05",
+    "fact_mapping": "插混车辆制动时，电机可作为发电机回收部分动能。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_10.txt",
+    "location": "正文",
+    "format": "txt",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/vehicles/electric-maintenance",
+    "access_date": "2026-10-05",
+    "fact_mapping": "纯电动车的运动部件和需更换的液体通常少于传统燃油车。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_11.csv",
+    "location": "行 2",
+    "format": "csv",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/vehicles/electric-maintenance",
+    "access_date": "2026-10-05",
+    "fact_mapping": "电动车事故应急处置人员应参考制造商指南和培训资料。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "公开知识_12.docx",
+    "location": "章节 电动车知识 · 段落 1",
+    "format": "docx",
+    "origin": "public_derived",
+    "source_url": "https://afdc.energy.gov/fuels/electricity-charging-public",
+    "access_date": "2026-10-05",
+    "fact_mapping": "公共充电设施可扩大纯电动车日常可用行驶范围。",
+    "note": "原创中文概述；不代表中国标准或车型承诺"
+  },
+  {
+    "source": "云途A1_2025_spec.md",
+    "location": "产品配置",
+    "format": "md",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2025 款的演示续航为 510 公里，座位布局为 5 座。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2025_charge.pdf",
+    "location": "第 1 页",
+    "format": "pdf",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "Yuntu A1 2025 DC 30%-80% charging: 31 minutes.",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2025_warranty.docx",
+    "location": "章节 整车质保 · 段落 1",
+    "format": "docx",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2025 款整车质保为 5 年或 12 万公里。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2025_faq.txt",
+    "location": "正文",
+    "format": "txt",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2025 款支持手机蓝牙钥匙功能。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2025_voc.csv",
+    "location": "行 2",
+    "format": "csv",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2025 款的合成用户反馈主题是语音唤醒偏慢。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2025_competitor.md",
+    "location": "竞品观察",
+    "format": "md",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2025 款在合成竞品观察中对照车型为竞品 C1。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2025_service.docx",
+    "location": "章节 售后周期 · 段落 1",
+    "format": "docx",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2025 款建议每 12 个月检查一次常规项目。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2026_spec.md",
+    "location": "产品配置",
+    "format": "md",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2026 款的演示续航为 545 公里，座位布局为 5 座。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2026_charge.pdf",
+    "location": "第 1 页",
+    "format": "pdf",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "Yuntu A1 2026 DC 30%-80% charging: 27 minutes.",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2026_warranty.docx",
+    "location": "章节 整车质保 · 段落 1",
+    "format": "docx",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2026 款整车质保为 6 年或 15 万公里。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2026_faq.txt",
+    "location": "正文",
+    "format": "txt",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2026 款支持手机蓝牙钥匙功能。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2026_voc.csv",
+    "location": "行 2",
+    "format": "csv",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2026 款的合成用户反馈主题是空调风量记忆失效。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2026_competitor.md",
+    "location": "竞品观察",
+    "format": "md",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2026 款在合成竞品观察中对照车型为竞品 C2。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A1_2026_service.docx",
+    "location": "章节 售后周期 · 段落 1",
+    "format": "docx",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A1 2026 款建议每 18 个月检查一次常规项目。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2025_spec.md",
+    "location": "产品配置",
+    "format": "md",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2025 款的演示续航为 590 公里，座位布局为 6 座。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2025_charge.pdf",
+    "location": "第 1 页",
+    "format": "pdf",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "Yuntu A2 2025 DC 30%-80% charging: 34 minutes.",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2025_warranty.docx",
+    "location": "章节 整车质保 · 段落 1",
+    "format": "docx",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2025 款整车质保为 5 年或 15 万公里。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2025_faq.txt",
+    "location": "正文",
+    "format": "txt",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2025 款支持远程开启空调功能。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2025_voc.csv",
+    "location": "行 2",
+    "format": "csv",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2025 款的合成用户反馈主题是第三排上下车不便。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2025_competitor.md",
+    "location": "竞品观察",
+    "format": "md",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2025 款在合成竞品观察中对照车型为竞品 D1。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2025_service.docx",
+    "location": "章节 售后周期 · 段落 1",
+    "format": "docx",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2025 款建议每 12 个月检查一次常规项目。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2026_spec.md",
+    "location": "产品配置",
+    "format": "md",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2026 款的演示续航为 620 公里，座位布局为 6 座。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2026_charge.pdf",
+    "location": "第 1 页",
+    "format": "pdf",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "Yuntu A2 2026 DC 30%-80% charging: 29 minutes.",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2026_warranty.docx",
+    "location": "章节 整车质保 · 段落 1",
+    "format": "docx",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2026 款整车质保为 6 年或 18 万公里。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2026_faq.txt",
+    "location": "正文",
+    "format": "txt",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2026 款支持远程开启空调功能。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2026_voc.csv",
+    "location": "行 2",
+    "format": "csv",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2026 款的合成用户反馈主题是二排杯架较浅。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2026_competitor.md",
+    "location": "竞品观察",
+    "format": "md",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2026 款在合成竞品观察中对照车型为竞品 D2。",
+    "note": "虚构车型与演示数值"
+  },
+  {
+    "source": "云途A2_2026_service.docx",
+    "location": "章节 售后周期 · 段落 1",
+    "format": "docx",
+    "origin": "synthetic",
+    "source_url": null,
+    "access_date": null,
+    "fact_mapping": "云途A2 2026 款建议每 18 个月检查一次常规项目。",
+    "note": "虚构车型与演示数值"
+  }
+]

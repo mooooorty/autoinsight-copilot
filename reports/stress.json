@@ -1,0 +1,31 @@
+{
+  "seed": 20261005,
+  "queries_per_size": 30,
+  "memory_measure": "Python traced allocations only",
+  "rows": [
+    {
+      "chunks": 500,
+      "build_ms": 449.23,
+      "query_p50_ms": 12.89,
+      "query_p95_ms": 14.04,
+      "anchor_recall_at_5": 1.0,
+      "python_traced_peak_mib": 3.29
+    },
+    {
+      "chunks": 2000,
+      "build_ms": 1526.19,
+      "query_p50_ms": 35.02,
+      "query_p95_ms": 39.16,
+      "anchor_recall_at_5": 1.0,
+      "python_traced_peak_mib": 10.8
+    },
+    {
+      "chunks": 5000,
+      "build_ms": 3644.22,
+      "query_p50_ms": 94.53,
+      "query_p95_ms": 131.39,
+      "anchor_recall_at_5": 1.0,
+      "python_traced_peak_mib": 24.94
+    }
+  ]
+}

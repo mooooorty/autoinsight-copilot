@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autoinsight-copilot"
+version = "0.1.0"
+description = "Offline-first automotive knowledge lookup with evidence and evaluation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "streamlit>=1.38,<2",
+  "scikit-learn>=1.4,<2",
+  "jieba>=0.42,<1",
+  "pypdf>=5,<8",
+  "python-docx>=1.1,<2",
+]
+
+[project.optional-dependencies]
+jev = ["typesafe-sdk>=0.7,<0.8"]
+test = ["pytest>=8,<10", "reportlab>=4,<5"]
+
+[project.scripts]
+autoinsight = "autoinsight.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
